@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f7f7;
+}
+
+h1 {
+  text-align: center;
+  color: #0a0f33;
+  background-color: #ccc;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 42px;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
+}
+
+ol li {
+  background-color: #eee;
+  margin: 5px;
+  box-shadow: 0px 4px 16px #aaa;
+}
+
+.container {
+  text-align: center;
+}
